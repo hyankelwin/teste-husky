@@ -2,12 +2,6 @@
   "name": "stockistapp",
   "version": "0.0.1",
   "private": true,
-  "husky": {
-    "hooks": {
-      "pre-commit": "eslint. --max-warnings = 0",
-      "pre-push": "eslint. --max-warnings = 0"
-    }
-  },
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",

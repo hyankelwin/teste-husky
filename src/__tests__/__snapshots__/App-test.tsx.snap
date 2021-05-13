@@ -192,6 +192,9 @@ exports[`renders correctly 1`] = `
                           <Text>
                             Novaaaa e tals
                           </Text>
+                          <Text>
+                            Novaaaa e tals
+                          </Text>
                         </View>
                       </View>
                     </View>

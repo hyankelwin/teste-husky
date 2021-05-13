@@ -7,6 +7,7 @@ const Initial: React.FC = () => {
       <Text>Bem vindo à Expedição</Text>
       <View>
         <Text>Novaaaa e tals</Text>
+        <Text>Novaaaa e tals</Text>
       </View>
     </View>
   );
