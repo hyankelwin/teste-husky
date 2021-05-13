@@ -188,6 +188,11 @@ exports[`renders correctly 1`] = `
                         <Text>
                           Bem vindo à Expedição
                         </Text>
+                        <View>
+                          <Text>
+                            Novaaaa e tals
+                          </Text>
+                        </View>
                       </View>
                     </View>
                   </View>
