@@ -19,7 +19,8 @@
     "ios": "react-native run-ios",
     "start": "react-native start",
     "test": "jest",
-    "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
+    "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
+    "prepare": "husky install"
   },
   "dependencies": {
     "@react-native-community/masked-view": "^0.1.10",
@@ -69,7 +70,7 @@
     "eslint-config-prettier": "^8.3.0",
     "eslint-import-resolver-typescript": "^2.4.0",
     "eslint-plugin-prettier": "^3.4.0",
-    "husky": "^4.2.3",
+    "husky": "^6.0.0",
     "identity-obj-proxy": "^3.0.0",
     "jest": "^25.1.0",
     "lint-staged": "^11.0.0",
