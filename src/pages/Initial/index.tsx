@@ -1,5 +1,5 @@
 import React from 'react';
-import { View, Text } from 'react-native'
+import { View, Text } from 'react-native';
 
 const Initial: React.FC = () => {
   return (
@@ -9,4 +9,4 @@ const Initial: React.FC = () => {
   );
 };
 
-export default Initial
+export default Initial;
