@@ -6,6 +6,6 @@ it('renders correctly', async () => {
   const tree = render(<App />);
 
   await act(async () => {
-    expect(tree).toBe(null);
+    expect(tree).toMatchSnapshot();
   });
 });
